@@ -28,7 +28,7 @@
 
     В случае использования nginx(или другого прокси) - настроить nginx, прослушиваемый приложением порт указан в файле https://github.com/SilentSt/SCP-682/blob/master/SCP%20682/Program.cs#L22
     В случае отсутствия прокси указать адрес сервера, на котором будет запущено приложение в файле https://github.com/SilentSt/SCP-682/blob/master/SCP%20682/Program.cs#L22
-    Также упомянутый выше адресс и порт используются в мобильном приложении
+    Также упомянутый выше адрес и порт используются в мобильном приложении
     Установить .net6.0 SDK:
         wget https://packages.microsoft.com/config/ubuntu/21.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
         sudo dpkg -i packages-microsoft-prod.deb
