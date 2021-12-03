@@ -14,7 +14,7 @@ namespace SCPData
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("Server=217.25.89.68;database=scp682;user=sDether;password=1namQfeg1_;");
+            optionsBuilder.UseMySQL("Server=localhost;database=name;user=root;password=12345678;");
             base.OnConfiguring(optionsBuilder);
         }
         public DbSet<User> Users { get; set; }
