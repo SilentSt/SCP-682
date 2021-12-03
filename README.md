@@ -48,5 +48,5 @@
 Разработчики
 
     Первушин Максим https://t.me/@whiskas44
-    Светличная Карина https://t.me/@@kflnch   
+    Светличная Карина https://t.me/@kflnch   
     Кириченко Кирилл https://t.me/@smartsem
